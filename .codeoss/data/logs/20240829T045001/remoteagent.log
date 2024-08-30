@@ -1,0 +1,18 @@
+2024-08-29 04:50:02.073 [info] 
+
+
+
+
+2024-08-29 04:50:02.073 [info] Extension host agent started.
+2024-08-29 04:50:02.077 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kondakamal12/.codeoss/extensions
+2024-08-29 04:50:02.100 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kondakamal12/.codeoss/extensions
+2024-08-29 04:50:05.189 [info] [127.0.0.1][22f4d1c4][ManagementConnection] New connection established.
+2024-08-29 04:50:05.349 [info] [127.0.0.1][65248742][ExtensionHostConnection] New connection established.
+2024-08-29 04:50:08.280 [info] [127.0.0.1][65248742][ExtensionHostConnection] <1183> Launched Extension Host Process.
+2024-08-29 05:02:36.136 [info] [127.0.0.1][22f4d1c4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-29 05:02:36.202 [info] [127.0.0.1][65248742][ExtensionHostConnection] <1183> Extension Host Process exited with code: 0, signal: null.
+2024-08-29 05:21:23.642 [info] [127.0.0.1][7954fa3b][ManagementConnection] New connection established.
+2024-08-29 05:21:23.789 [info] [127.0.0.1][cb33303c][ExtensionHostConnection] New connection established.
+2024-08-29 05:21:23.801 [info] [127.0.0.1][cb33303c][ExtensionHostConnection] <1316> Launched Extension Host Process.
+2024-08-29 05:24:12.969 [info] [127.0.0.1][7954fa3b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-29 05:24:13.042 [info] [127.0.0.1][cb33303c][ExtensionHostConnection] <1316> Extension Host Process exited with code: 0, signal: null.
